@@ -1,6 +1,5 @@
 # Technical Assessment
 ## Take home task
-### Ahmad Shanqiti
 
 
 ## Objective
